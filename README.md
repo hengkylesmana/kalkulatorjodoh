@@ -1,2 +1,0 @@
-# kalkulatorjodoh
-Kalkulator jodoh
